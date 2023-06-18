@@ -2,9 +2,9 @@
 <h3 align="center">Software engineer student</h3>
 <img align="right" alt="cat-coding-gif" width="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
-- 🌱 I’m currently learning **Spring, Angular**
+- 🌱 I’m currently learning [Quarkus](https://quarkus.io/), [Spring Boot](https://spring.io/projects/spring-boot), [Jenkins](https://www.jenkins.io/), [K8s](https://kubernetes.io/)
 
-- 💬 Ask me about **Java, Python, C++**
+- 💬 Ask me about **Java, Type Script, Python, C++**
 
 - 📫 How to reach me **diegozavala.code@gmail.com**
 
