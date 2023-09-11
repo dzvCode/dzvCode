@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/diegozavalasanchez/">Diego Zavala</a></h1>
+<h1 align="center">Hi👋, I'm <a href="https://www.linkedin.com/in/diegozavalasanchez/">Diego Zavala</a></h1>
 <h3 align="center">Software engineer student</h3>
 <img align="right" alt="cat-coding-gif" width="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
-- 🌱 I’m currently learning [Quarkus](https://quarkus.io/), [Spring Boot](https://spring.io/projects/spring-boot), [Jenkins](https://www.jenkins.io/), [K8s](https://kubernetes.io/)
+- 🌱 I’m currently learning [Go](https://go.dev/), [Docker](https://www.ruby-lang.org/en/), [RabbitMQ](https://www.rabbitmq.com/)
 
-- 💬 Ask me about **Java, Type Script, Python, C++**
+- 💬 Ask me about **Web Development, Software Architecture, Database Administration**
 
 - 📫 How to reach me **diegozavala.code@gmail.com**
 
